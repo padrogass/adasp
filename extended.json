@@ -14,7 +14,7 @@
             "github_handle": ""
         },
         "company": {
-            "name": "",
+            "name": "Euskal Stakepool",
             "addr": "",
             "city": "Bilbao",
             "country": "Basque Country",
@@ -23,7 +23,7 @@
         },
         "about": {
             "me": "Euskal StakePool",
-            "server": "Enterprise Grade Servers Hosted in Bilbao, Basque Country.",
+            "server": "The 1st Basque Country's Cardano Stakepool.",
             "company": "Euskal StakePool"
         },
         "rss": ""
