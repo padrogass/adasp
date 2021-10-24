@@ -3,4 +3,5 @@
 "description": "EUSKAL TESTNET STAKE POOL",
 "ticker": "EUSKL",
 "homepage": "https://euskalstakepool.win"
+ "extended": "https://raw.githubusercontent.com/padrogass/adasp/main/testnet-extended.json"
 }
