@@ -1,0 +1,61 @@
+{
+    "how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
+    "info": {
+        "url_png_icon_64x64": "https://euskalstakepool.win/wp-content/uploads/2021/03/euskalstakepool-cardano-to-the-moon_64x64.png",
+        "url_png_logo": "https://euskalstakepool.win/wp-content/uploads/2021/03/euskalstakepool-cardano-to-the-moon-50k.png",
+        "location": "Bilbao, Spain",
+        "social": {
+            "twitter_handle": "euskalstakepool",
+            "telegram_handle": "euskalstakepool",
+            "facebook_handle": "",
+            "youtube_handle": "",
+            "twitch_handle": "",
+            "discord_handle": "E7PTx3mkee",
+            "github_handle": ""
+        },
+        "company": {
+            "name": "Euskal Stake Pool",
+            "addr": "",
+            "city": "Bilbao",
+            "country": "Spain",
+            "company_id": "",
+            "vat_id": ""
+        },
+        "about": {
+            "me": "Euskal Stake Pool - Testnet",
+            "server": "The 1st Basque Country's Cardano Stakepool. High Performance, Safe and Supportive Cardano Stake Pool. Minswap FISO Partner.",
+            "company": "Euskal Stake Pool - Testnet"
+        },
+        "rss": ""
+    },
+    "my-pool-ids": {
+        "0": "b4122e4d02a6986e9604d5c74ab2974e80638f78e6bd1aa01b883e6e",
+        "1": ""
+    },
+    "when-satured-then-recommend": {
+        "0": "",
+        "1": ""
+    },
+    "telegram-admin-handle": {
+        "0": "euskalstakepool"
+    },
+    "adapools_ext": {
+        "prometheus": {
+            "0": {
+                "name": "",
+                "type": "",
+                "key": ""
+            },
+            "1": {
+                "name": "",
+                "type": "",
+                "key": ""
+            },
+            "2": {
+                "name": "",
+                "type": "",
+                "key": ""
+            }
+        }
+    }
+}
