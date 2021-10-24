@@ -1,6 +1,6 @@
 {
 "name": "EUSKAL STAKE POOL TESTNET",
-"description": "EUSKAL TESTNET STAKE POOL",
+"description": "EUSKAL STAKE POOL TESTNET",
 "ticker": "EUSKL",
 "homepage": "https://euskalstakepool.win"
  "extended": "https://raw.githubusercontent.com/padrogass/adasp/main/testnet-extended.json"
