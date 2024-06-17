@@ -2,11 +2,11 @@
     "verification":"f47ce2c5974fdb9b58",
     "how-to-implement": " in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
     "info": {
-        "url_png_icon_64x64": "https://euskalstakepool.win/wp-content/uploads/2021/03/euskov3.1.64x64.png",
-        "url_png_logo": "https://euskalstakepool.win/wp-content/uploads/2021/03/euskalstakepool-cardano-to-the-moon-50k.png",
-        "location": "Bilbao, Spain",
+        "url_png_icon_64x64": "https://i.ibb.co/Kw3Mdp8/euskov3-1-64x64.png",
+        "url_png_logo": "https://i.ibb.co/WB8XhP8/euskov3.png",
+        "location": "",
         "social": {
-            "twitter_handle": "euskalstakepool",
+            "twitter_handle": "euskl",
             "telegram_handle": "+OWS5F7Tpp85iODU0",
             "facebook_handle": "",
             "youtube_handle": "",
@@ -15,17 +15,17 @@
             "github_handle": ""
         },
         "company": {
-            "name": "Euskal Stake Pool",
+            "name": "EUSKL",
             "addr": "",
-            "city": "Bilbao",
-            "country": "Spain",
+            "city": "",
+            "country": "",
             "company_id": "",
             "vat_id": ""
         },
         "about": {
-            "me": "Euskal Stake Pool",
-            "server": "The 1st Basque Country's Cardano Stakepool.High Performance, Safe and Supportive Cardano Stake Pool.",
-            "company": "Euskal Stake Pool"
+            "me": "EUSKL",
+            "server": "EUSKL POOL",
+            "company": "EUSKL"
         },
         "rss": ""
     },
@@ -38,7 +38,7 @@
         "1": ""
     },
     "telegram-admin-handle": {
-        "0": "euskalstakepool"
+        "0": ""
     },
     "adapools_ext": {
         "prometheus": {
